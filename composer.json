@@ -1,0 +1,17 @@
+{
+    "name": "mariusz/library_two",
+    "require": {
+        "monolog/monolog": "2.9.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mariusz\\LibraryTwo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mariusz M",
+            "email": "mariusz.mortka@gmail.com"
+        }
+    ]
+}
